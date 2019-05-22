@@ -5,9 +5,9 @@
 	<key>Kind</key>
 	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
 	<key>Description</key>
-	<string>An empty Swift file.</string>
+	<string>A Swift file which contains the base of an API Manager.</string>
 	<key>Summary</key>
-	<string>An empty Swift file</string>
+	<string>A Swift file which contains the base of an API Manager.</string>
 	<key>SortOrder</key>
 	<string>30</string>
 	<key>AllowedTypes</key>
